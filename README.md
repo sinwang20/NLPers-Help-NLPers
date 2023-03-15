@@ -10,7 +10,7 @@ reference：repo about LLM [github](https://github.com/Hannibal046/Awesome-LLM)
 
 ## Last Mile of NLP
 
-## NLP for everything
+## NLP for Everything
 
 > The limits of my language are the limits of my world. --Ludwig Wittgenstein
 
