@@ -4,7 +4,7 @@ In the era of "Big Model", the survival space of NLPers is further squeezed, and
 
 ## Embracing the Big Model
 
-Repo: Awesome-LLM [github](https://github.com/Hannibal046/Awesome-LLM)
+Repo: Awesome-LLM [[github]](https://github.com/Hannibal046/Awesome-LLM)
 
 ## Data is All You Need
 
@@ -16,9 +16,9 @@ Repo: Awesome-LLM [github](https://github.com/Hannibal046/Awesome-LLM)
 
 nlp+robotics, XR/VR, etc.
 
-ChatGPT for Robotics: Design Principles and Model Abilities [link](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/chatgpt-for-robotics/)
+ChatGPT for Robotics: Design Principles and Model Abilities [[link]](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/chatgpt-for-robotics/)
 
-Repo: Awesome-LLM-Robotics [github](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
+Repo: Awesome-LLM-Robotics [[github]](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
 
 nlp for science
 
@@ -32,7 +32,7 @@ Fathiful, human-interpretable explanation
 ## Retrieval-based NLP
 
 (2022 Arxiv) **Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP**.
-Omar Khattab, Keshav Santhanam, Xiang Lisa Li, David Hall, Percy Liang, Christopher Potts, Matei Zaharia. [pdf](https://arxiv.org/abs/2212.14024)
+Omar Khattab, Keshav Santhanam, Xiang Lisa Li, David Hall, Percy Liang, Christopher Potts, Matei Zaharia. [[pdf]](https://arxiv.org/abs/2212.14024)
 
 
 ## Rethink your Life Path
@@ -41,3 +41,7 @@ Omar Khattab, Keshav Santhanam, Xiang Lisa Li, David Hall, Percy Liang, Christop
 > I took the one less travelled by,
 > And that has made all the difference.
 >   --Robert Frost
+
+
+## Contribution
+Please feel free to contribute and promote your insight or advice here! And we will add you to the contributor list😊.
