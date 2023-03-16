@@ -26,9 +26,9 @@ Fathiful, human-interpretable explanation
 
 ## Retrieval-based NLP
 
-## Rethink your Lifepath
+## Rethink your Life Path
 
 > Two roads erged in a wood, and I ---
 > I took the one less travelled by,
 > And that has made all the difference.
->  ————Robert Frost
+>   --Robert Frost
