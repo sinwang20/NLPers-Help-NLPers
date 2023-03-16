@@ -35,6 +35,10 @@ Fathiful, human-interpretable explanation
 [2017 ACL] **MalwareTextDB: A Database for Annotated Malware Articles**.
  Swee Kiat Lim, Aldrian Obaja Muis, Wei Lu, Chen Hui Ong. [[pdf]](https://aclanthology.org/P17-1143/)
  
+ (2023 Arxiv) **On the Feasibility of Specialized Ability Stealing for Large Language Code Models**.
+Zongjie Li, Chaozheng Wang, Pingchuan Ma, Chaowei Liu, Shuai Wang, Daoyuan Wu, Cuiyun Gao. [[pdf]](http://export.arxiv.org/abs/2303.03012v1)
+
+ 
 ## Retrieval-based NLP
 
 (2022 Arxiv) **Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP**.
