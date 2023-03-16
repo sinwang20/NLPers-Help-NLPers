@@ -32,7 +32,7 @@ Fathiful, human-interpretable explanation
 
 
 ## AI Safety
-
+MalwareTextDB: A Database for Annotated Malware Articles [[link]](https://aclanthology.org/P17-1143/)
 ## Retrieval-based NLP
 
 (2022 Arxiv) **Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP**.
