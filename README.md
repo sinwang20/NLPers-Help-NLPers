@@ -1,6 +1,6 @@
 # NLPers-Help-NLPers
 
-In the era of "Big Model", the survival space of NLPers is further squeezed, and we look forward to helping NLPers find new hope and insight through the "NLPers help NLPers" approach.
+In the era of "Big Model," the territory for NLPers to thrive is becoming increasingly limited. As a result, we aim to provide support to NLPers through the "NLPers help NLPers" approach, hoping to spark new inspiration and opportunities.
 
 ## Embracing the Big Model
 
@@ -8,7 +8,11 @@ Repo: Awesome-LLM [[github]](https://github.com/Hannibal046/Awesome-LLM)
 
 ## Data is All You Need
 
+Better benchmark, Better strategy for obtaining clean data. 
+
 ## Last Mile of NLP
+
+LLM has successfully resolved 95% of the issues, yet the remaining 5% is crucial in providing a direct and constructive impact on people's lives. The question remains: How can we overcome the "last mile" problem and unleash the full potential of existing technologies?
 
 ## NLP for Everything
 
