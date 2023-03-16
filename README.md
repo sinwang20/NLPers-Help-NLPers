@@ -31,6 +31,10 @@ Fathiful, human-interpretable explanation
 
 ## Retrieval-based NLP
 
+(2022 Arxiv) **Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP**.
+Omar Khattab, Keshav Santhanam, Xiang Lisa Li, David Hall, Percy Liang, Christopher Potts, Matei Zaharia. [pdf](https://arxiv.org/abs/2212.14024)
+
+
 ## Rethink your Life Path
 
 > Two roads erged in a wood, and I ---
