@@ -14,13 +14,13 @@ Repo: Awesome-LLM [[github]](https://github.com/Hannibal046/Awesome-LLM)
 
 > The limits of my language are the limits of my world. --Ludwig Wittgenstein
 
-nlp+robotics, XR/VR, etc.
+- nlp+robotics, XR/VR, etc.
 
 ChatGPT for Robotics: Design Principles and Model Abilities [[link]](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/chatgpt-for-robotics/)
 
 Repo: Awesome-LLM-Robotics [[github]](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
 
-nlp for science
+- nlp for science
 
 ## Interpretable AI
 
