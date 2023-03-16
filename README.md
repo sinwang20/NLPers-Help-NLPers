@@ -8,7 +8,7 @@ Repo: Awesome-LLM [[github]](https://github.com/Hannibal046/Awesome-LLM)
 
 ## Data is All You Need
 
-Better benchmark, Better strategy for obtaining clean data. 
+Better benchmarks, Better strategy for obtaining clean data. 
 
 ## Last Mile of NLP
 
