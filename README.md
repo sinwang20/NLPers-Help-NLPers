@@ -25,3 +25,10 @@ Fathiful, human-interpretable explanation
 ## AI Safety
 
 ## Retrieval-based NLP
+
+## Rethink your Lifepath
+
+> Two roads erged in a wood, and I ---
+> I took the one less travelled by,
+> And that has made all the difference.
+>  ————Robert Frost
