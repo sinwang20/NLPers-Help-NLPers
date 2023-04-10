@@ -183,4 +183,4 @@ imiation learning
 Please feel free to contribute and promote your insight or advice here! And we will add you to the contributor list😊.
 
 ### Credits
-[Christopher Potts](https://www.youtube.com/watch?v=-lnHHWRCDGk), Tom Goldstein, Yoav Artzi, [Yangfeng JI](https://medium.com/@yangfengji/if-you-dont-like-the-question-ask-a-different-one-973b27e61fcf), Dan Hendrycks.
+[Christopher Potts](https://www.youtube.com/watch?v=-lnHHWRCDGk), Tom Goldstein, Yoav Artzi, [Yangfeng Ji](https://medium.com/@yangfengji/if-you-dont-like-the-question-ask-a-different-one-973b27e61fcf), Dan Hendrycks.
