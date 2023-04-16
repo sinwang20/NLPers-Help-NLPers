@@ -169,6 +169,9 @@ distillation
 
 imiation learning
 
+(2023 Arxiv) Eight Things to Know about Large Language Models. Samuel R. Bowman.  [[pdf]](https://arxiv.org/pdf/2304.00612.pdf)
+
+(2023 Arxiv) Choose Your Weapon: Survival Strategies for Depressed AI Academics. Julian Togelius, Georgios N. Yannakakis. [[pdf]](https://arxiv.org/pdf/2304.06035.pdf)
 
 
 ## Rethink your Life Path
