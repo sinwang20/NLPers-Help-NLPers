@@ -1,5 +1,7 @@
 # NLPers-Help-NLPers
 
+> It was the best of times, it was the worst of times. --Charles Dickens
+
 In the era of "Big Model," the territory for NLPers to thrive is becoming increasingly limited. As a result, we aim to provide support to NLPers through the "NLPers help NLPers" approach, hoping to spark new inspiration and opportunities.
 
 ## Embracing the Big Model
